@@ -2,11 +2,13 @@
 1. word documnet -> project document
 
 	->  1. Heading of project 
+	---
 		1.1  project description
 			1.1.2 Tech stack:	
 				-> Java
 				-> File Handling
 				-> datastructure
+	---
 			
 	-> 2. Archetecture diagram / flow chart
 
