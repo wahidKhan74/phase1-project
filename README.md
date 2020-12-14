@@ -1,5 +1,5 @@
 
-1. word documnet -> project document
+	# 1. word documnet -> project document
 
 	->  1. Heading of project 
 	---
@@ -11,8 +11,12 @@
 	---
 			
 	-> 2. Archetecture diagram / flow chart
+	---
+	screen shot image
+	---
 
 	-> 2. Project Users Stories : ( Agile and Scrum )
+	---
 		-> idea --> users stories
 		-> jeera  --> too -> write users stories  -> screen shots -> 
 		eg:
@@ -23,6 +27,7 @@
 		4. As a dev I want build registration page to enter user in system.
 		5. As a dev I want to build login page so that we can authticate user.
 		6. As a dev create user interation with console input.
+	---
 
 	Sprint 1 ( 1week)
 		1. As a <role> i want <feature > so that <goal>
@@ -35,7 +40,7 @@
 	Sprint 3
 		5. As a dev I want to build login page so that we can authticate user.
 		6. As a dev create user interation with console input.
-
+	---
 
 	->3. Project git Repositories -> 
 		Note : MAke sure your github is made with your name.
