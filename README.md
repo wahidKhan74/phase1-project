@@ -18,7 +18,7 @@
 	-> 2. Project Users Stories : ( Agile and Scrum )
 	---
 		-> idea --> users stories
-		-> jeera  --> too -> write users stories  -> screen shots -> 
+		-> jira software --> too -> write users stories  -> screen shots -> 
 		eg:
 		1. As a <role> i want <feature > so that <goal>
 		1. As a user i want lockme digital locker so that i can store my credntials.
